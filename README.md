@@ -10,7 +10,8 @@ Here's a clean and organized version of your "Awesome Research" notes:
 - [What is Coupling](/frontend-web/what-is-coupling.md)
 - [Single Page Applications vs Multi-Page Applications](/frontend-web/spas-vs-mpas.md)
 - [Server Side Rendering vs Client Side Rendering](/frontend-web/ssr-vs-csr.md)
-
+- [Pipelines & CI/CD](/misc/pipelines.md)
+- [Microservices Quick Definition](/misc/microservices-quick-definition.md)
 ### Quick Overviews
 - [Redux in 100 seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4&ab_channel=Fireship)
 - [Firebase in 100 seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM&ab_channel=Fireship)
